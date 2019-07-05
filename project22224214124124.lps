@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="project22224214124124.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="26"/>
+        <CursorPos Y="34"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="project22224214124124.lpr"/>
+        <Caret Line="28" Column="15"/>
+      </Position1>
+      <Position2>
+        <Filename Value="project22224214124124.lpr"/>
+        <Caret Line="34" Column="14" TopLine="27"/>
+      </Position2>
+      <Position3>
+        <Filename Value="project22224214124124.lpr"/>
+        <Caret Line="36" Column="7" TopLine="27"/>
+      </Position3>
+      <Position4>
+        <Filename Value="project22224214124124.lpr"/>
+        <Caret Line="34" Column="9" TopLine="27"/>
+      </Position4>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="project22224214124124.lpr"/>
+        <Line Value="34"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
